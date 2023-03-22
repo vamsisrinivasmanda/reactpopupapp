@@ -1,0 +1,52 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  .website-logo {
+    width: 50px;
+    height: 50px;
+  }
+  .menu-icon {
+    height: 50px;
+    width: 30px;
+  }
+  .popup-container {
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: Roboto;
+    background-color: antiquewhite;
+    padding: 10px;
+  }
+  .cross-btn {
+    background: transparent;
+    border: 0px;
+    padding-top: 10px;
+    margin-left: 1850px;
+  }
+  .cross-icon {
+    height: 20px;
+    width: 20px;
+  }
+  .link-container {
+    text-decoration: none;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .link-icon {
+    height: 30px;
+    width: 30px;
+    margin-right: 5px;
+  }
+  .trigger-button {
+    background: transparent;
+    border: 0px;
+  }
+  
